@@ -71,12 +71,25 @@
     ]
   },
   "testimonials": {
-    "label": "Recensioni",
-    "titolo": "Struttura nuova",
-    "sottotitolo": "Samilla Loft è una struttura nuovissima. Siamo certi che diventerà presto la preferita di chi ama il mare di Rimini. Prenota tra i primi e lascia la tua recensione.",
-    "rating_label": "Su Airbnb",
-    "rating_val": "4,88"
-  },
+  "label": "Recensioni",
+  "titolo": "Cosa dicono gli ospiti",
+  "rating_label": "Su Airbnb",
+  "rating_val": "5,0",
+  "items": [
+    {
+      "nome": "Claudia",
+      "luogo": "Nettuno, Italia",
+      "stelle": 5,
+      "testo": "Appartamento pulitissimo e attrezzato con tutto il necessario (utensili da cucina, grande tv, stendino,...). La posizione è ottima per spostarsi a piedi, infatti si trova a circa 10 minuti a piedi dalla stazione ferroviaria e affaccia proprio sul corso principale della marina di Rimini, ricco di locali. L'host è stato sempre gentilissimo e pronto a rispondere a ogni dubbio o esigenza durante l'intero soggiorno. 🔝 🔝 🔝"
+    },
+    {
+      "nome": "Iva",
+      "luogo": "Zagabria, Croazia",
+      "stelle": 5,
+      "testo": "Appartamento fantastico sulla strada principale, con molti bar e ristoranti, vicinissimo alla spiaggia. L'host ha pensato a tutto; ci ha persino lasciato degli spazzolini da denti e del vino. Ci torneremmo volentieri..."
+    }
+  ]
+}
   "location": {
     "label": "Posizione",
     "titolo": "Nel cuore della Riviera",
