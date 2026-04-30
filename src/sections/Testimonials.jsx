@@ -133,7 +133,6 @@ export default function Testimonials() {
             {t.nav.prenota}
           </a>
         </div>
-
       </div>
     </section>
   );
