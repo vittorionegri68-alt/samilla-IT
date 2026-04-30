@@ -115,7 +115,7 @@ export default function Testimonials() {
 
         {/* CTA */}
         <div className="reveal" style={{ textAlign: 'center' }}>
-          
+          <a
             href={config.airbnbUrl}
             target="_blank"
             rel="noopener noreferrer"
@@ -133,6 +133,7 @@ export default function Testimonials() {
             {t.nav.prenota}
           </a>
         </div>
+
       </div>
     </section>
   );
