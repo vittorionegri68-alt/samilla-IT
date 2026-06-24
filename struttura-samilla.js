@@ -11,7 +11,7 @@ export const struttura_IT = {
   ospiti: 3,
   camere: 1,
   bagni: 1,
-  animali: null, // verificare su Airbnb
+  animali: true,
   descrizione: 'Loft moderno e luminoso nel cuore di Rimini, a pochi passi dalla spiaggia adriatica. Vista sulla spiaggia, Wi-Fi, biciclette incluse. Ideale per 2-3 ospiti.',
   tag: ['Vista mare', 'Biciclette incluse', 'Wi-Fi fibra', 'Self check-in'],
   distanze: [
@@ -40,7 +40,7 @@ export const struttura_EN = {
   ospiti: 3,
   camere: 1,
   bagni: 1,
-  animali: null,
+  animali: true,
   descrizione: 'Modern and bright loft in the heart of Rimini, steps from the Adriatic beach. Sea view, Wi-Fi, bikes included. Ideal for 2-3 guests.',
   tag: ['Sea view', 'Bikes included', 'Fibre Wi-Fi', 'Self check-in'],
   distanze: [
