@@ -33,14 +33,46 @@
   "amenities": {
     "titolo": "Tutto quello che ti serve",
     "items": [
-      { "icon": "🌊", "titolo": "Vista sulla spiaggia", "desc": "Goditi il panorama dell'Adriatico direttamente dal loft" },
-      { "icon": "🚴", "titolo": "Biciclette incluse", "desc": "Esplora Rimini in bici — due biciclette a disposizione" },
-      { "icon": "❄️", "titolo": "Aria condizionata", "desc": "Clima perfetto in ogni stagione" },
-      { "icon": "📶", "titolo": "Wi-Fi veloce", "desc": "Connessione fibra inclusa — ideale per smart working" },
-      { "icon": "🍽️", "titolo": "Cucina attrezzata", "desc": "Lavastoviglie, forno a microonde, tutto il necessario" },
-      { "icon": "🛗", "titolo": "Ascensore", "desc": "Accesso comodo a tutti i piani" },
-      { "icon": "🌡️", "titolo": "Riscaldamento", "desc": "Pannelli radianti per il massimo comfort invernale" },
-      { "icon": "🅿️", "titolo": "Parcheggio", "desc": "Parcheggio a pagamento disponibile in loco" }
+      {
+        "icon": "🌊",
+        "titolo": "Vista sulla spiaggia",
+        "desc": "Goditi il panorama dell'Adriatico direttamente dal loft"
+      },
+      {
+        "icon": "🚴",
+        "titolo": "Biciclette incluse",
+        "desc": "Esplora Rimini in bici — due biciclette a disposizione"
+      },
+      {
+        "icon": "❄️",
+        "titolo": "Aria condizionata",
+        "desc": "Clima perfetto in ogni stagione"
+      },
+      {
+        "icon": "📶",
+        "titolo": "Wi-Fi veloce",
+        "desc": "Connessione fibra inclusa — ideale per smart working"
+      },
+      {
+        "icon": "🍽️",
+        "titolo": "Cucina attrezzata",
+        "desc": "Lavastoviglie, forno a microonde, tutto il necessario"
+      },
+      {
+        "icon": "🛗",
+        "titolo": "Ascensore",
+        "desc": "Accesso comodo a tutti i piani"
+      },
+      {
+        "icon": "🌡️",
+        "titolo": "Riscaldamento",
+        "desc": "Pannelli radianti per il massimo comfort invernale"
+      },
+      {
+        "icon": "🅿️",
+        "titolo": "Parcheggio",
+        "desc": "Parcheggio a pagamento disponibile in loco"
+      }
     ]
   },
   "experience": {
@@ -65,43 +97,89 @@
     "label": "Come Prenotare",
     "titolo": "Quattro passi e sei a Rimini",
     "steps": [
-      { "num": "01", "titolo": "Cerca le date", "desc": "Controlla la disponibilità direttamente su Airbnb e scegli le date del tuo soggiorno." },
-      { "num": "02", "titolo": "Prenota in sicurezza", "desc": "Pagamento protetto tramite Airbnb. Ricevi la conferma immediata via email." },
-      { "num": "03", "titolo": "Check-in autonomo", "desc": "Accedi al loft in autonomia con il codice di accesso digitale. Nessuna attesa." },
-      { "num": "04", "titolo": "Goditi Rimini", "desc": "Svegliati con il profumo del mare, prendi le bici e inizia la tua avventura romagnola." }
+      {
+        "num": "01",
+        "titolo": "Cerca le date",
+        "desc": "Controlla la disponibilità direttamente su Airbnb e scegli le date del tuo soggiorno."
+      },
+      {
+        "num": "02",
+        "titolo": "Prenota in sicurezza",
+        "desc": "Pagamento protetto tramite Airbnb. Ricevi la conferma immediata via email."
+      },
+      {
+        "num": "03",
+        "titolo": "Check-in autonomo",
+        "desc": "Accedi al loft in autonomia con il codice di accesso digitale. Nessuna attesa."
+      },
+      {
+        "num": "04",
+        "titolo": "Goditi Rimini",
+        "desc": "Svegliati con il profumo del mare, prendi le bici e inizia la tua avventura romagnola."
+      }
     ]
   },
   "testimonials": {
-  "label": "Recensioni",
-  "titolo": "Cosa dicono gli ospiti",
-  "rating_label": "Su Airbnb",
-  "rating_val": "5,0",
-  "items": [
-    {
-      "nome": "Claudia",
-      "luogo": "Nettuno, Italia",
-      "stelle": 5,
-      "testo": "Appartamento pulitissimo e attrezzato con tutto il necessario (utensili da cucina, grande tv, stendino,...). La posizione è ottima per spostarsi a piedi, infatti si trova a circa 10 minuti a piedi dalla stazione ferroviaria e affaccia proprio sul corso principale della marina di Rimini, ricco di locali. L'host è stato sempre gentilissimo e pronto a rispondere a ogni dubbio o esigenza durante l'intero soggiorno. 🔝 🔝 🔝"
-    },
-    {
-      "nome": "Iva",
-      "luogo": "Zagabria, Croazia",
-      "stelle": 5,
-      "testo": "Appartamento fantastico sulla strada principale, con molti bar e ristoranti, vicinissimo alla spiaggia. L'host ha pensato a tutto; ci ha persino lasciato degli spazzolini da denti e del vino. Ci torneremmo volentieri..."
-    }
-  ]
-},
+    "label": "Recensioni",
+    "titolo": "Cosa dicono gli ospiti",
+    "rating_label": "Su Airbnb",
+    "rating_val": "5,0",
+    "items": [
+      {
+        "nome": "Claudia",
+        "luogo": "Nettuno, Italia",
+        "stelle": 5,
+        "testo": "Appartamento pulitissimo e attrezzato con tutto il necessario (utensili da cucina, grande tv, stendino,...). La posizione è ottima per spostarsi a piedi, infatti si trova a circa 10 minuti a piedi dalla stazione ferroviaria e affaccia proprio sul corso principale della marina di Rimini, ricco di locali. L'host è stato sempre gentilissimo e pronto a rispondere a ogni dubbio o esigenza durante l'intero soggiorno. 🔝 🔝 🔝"
+      },
+      {
+        "nome": "Iva",
+        "luogo": "Zagabria, Croazia",
+        "stelle": 5,
+        "testo": "Appartamento fantastico sulla strada principale, con molti bar e ristoranti, vicinissimo alla spiaggia. L'host ha pensato a tutto; ci ha persino lasciato degli spazzolini da denti e del vino. Ci torneremmo volentieri..."
+      },
+      {
+        "nome": "Mattia",
+        "luogo": "Italia",
+        "stelle": 5,
+        "testo": "Alloggio molto comodo e tutto in ordine. Check-in e check-out autonomi molto semplici da seguire."
+      },
+      {
+        "nome": "Maxime e Emilie",
+        "luogo": "Spagna",
+        "stelle": 5,
+        "testo": "Abbiamo trascorso un soggiorno meraviglioso. Non potresti davvero trovare una posizione migliore a Rimini. Tutto è raggiungibile a piedi: ristoranti, bar, spiaggia. Tutto è a due passi. Il grande letto è molto comodo, con una grande TV di fronte e anche una tenda per la privacy nel caso in cui si dorma con più persone nell'appartamento. Consiglio vivamente questo posto. Buon rapporto qualità prezzo. Sicuramente torneremo quando saremo nuovamente a Rimini. Vorrei aggiungere che la comunicazione è stata eccellente. Molto disponibile a rispondere alle nostre domande. Grazie per questo splendido alloggio. Altre recensioni menzionano la musica ad alto volume, ma posso dirvi che in realtà non è poi così male, soprattutto con le persiane chiuse la sera si sente pochissimo."
+      }
+    ]
+  },
   "location": {
     "label": "Posizione",
     "titolo": "Nel cuore della Riviera",
     "desc": "Samilla Loft si trova in Viale Amerigo Vespucci, a pochi passi dalla spiaggia e dal centro di Rimini. Una posizione strategica per esplorare tutta la Romagna.",
     "distanze": [
-      { "luogo": "Spiaggia di Rimini", "tempo": "2 min a piedi" },
-      { "luogo": "Centro di Rimini", "tempo": "10 min a piedi" },
-      { "luogo": "Cesena", "tempo": "30 min in auto" },
-      { "luogo": "San Marino", "tempo": "35 min in auto" },
-      { "luogo": "Ravenna", "tempo": "40 min in auto" },
-      { "luogo": "Bologna", "tempo": "80 min in auto" }
+      {
+        "luogo": "Spiaggia di Rimini",
+        "tempo": "2 min a piedi"
+      },
+      {
+        "luogo": "Centro di Rimini",
+        "tempo": "10 min a piedi"
+      },
+      {
+        "luogo": "Cesena",
+        "tempo": "30 min in auto"
+      },
+      {
+        "luogo": "San Marino",
+        "tempo": "35 min in auto"
+      },
+      {
+        "luogo": "Ravenna",
+        "tempo": "40 min in auto"
+      },
+      {
+        "luogo": "Bologna",
+        "tempo": "80 min in auto"
+      }
     ],
     "indirizzo": "Viale Amerigo Vespucci, 47921 Rimini RN"
   },
@@ -112,9 +190,18 @@
     "bio": "Siamo Anna e Cesare, i fondatori di Lucea Collection. Gestiamo con cura una selezione di appartamenti vacanze in Romagna, ognuno scelto per la sua posizione, il comfort e l'autenticità. Per noi ogni ospite è unico, e il nostro obiettivo è che tu ti senta a casa — o meglio, ancora più a tuo agio.",
     "badge": "Superhost",
     "stats": [
-      { "valore": "5★", "etichetta": "Rating medio" },
-      { "valore": "< 1h", "etichetta": "Tempo di risposta" },
-      { "valore": "100%", "etichetta": "Tasso di risposta" }
+      {
+        "valore": "5★",
+        "etichetta": "Rating medio"
+      },
+      {
+        "valore": "< 1h",
+        "etichetta": "Tempo di risposta"
+      },
+      {
+        "valore": "100%",
+        "etichetta": "Tasso di risposta"
+      }
     ]
   },
   "finalCta": {
@@ -125,7 +212,12 @@
   "footer": {
     "tagline": "Il tuo loft fronte mare a Rimini",
     "nav_label": "Naviga",
-    "links": ["L'Appartamento", "Esperienza", "Come Prenotare", "Posizione"],
+    "links": [
+      "L'Appartamento",
+      "Esperienza",
+      "Come Prenotare",
+      "Posizione"
+    ],
     "contact_label": "Contatti",
     "legal": "Tutti i diritti riservati.",
     "privacy": "Privacy Policy"
